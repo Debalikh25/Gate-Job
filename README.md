@@ -19,3 +19,4 @@ developing the application are as follows :
 ---
 
 ![](https://github.com/Debalikh25/Gate-Job/blob/main/0.0.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.0.png)
