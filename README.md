@@ -19,4 +19,15 @@ developing the application are as follows :
 ---
 
 ![](https://github.com/Debalikh25/Gate-Job/blob/main/0.0.png)
-![](https://github.com/Debalikh25/Gate-Job/blob/main/0.0.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.1.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.11.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.2.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.4.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.5.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.6.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.7.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.8.png)
+![](https://github.com/Debalikh25/Gate-Job/blob/main/0.9.png)
+
+
+
