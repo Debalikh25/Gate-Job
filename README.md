@@ -9,10 +9,11 @@ apply. Students have to register and login as per their
 btech stream and the videos and notes will be available to 
 them. The tools and technologies which were used while 
 developing the application are as follows :
--HTML 
--CSS
--Bootstrap 
--Javascript 
--PHP
--Mysql-phpMyAdmin 
--XAMPP- forapacheserver
+- HTML 
+- CSS
+- Bootstrap 
+- Javascript 
+- PHP
+- Mysql-phpMyAdmin 
+- XAMPP- forapacheserver
+---
