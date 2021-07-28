@@ -1,6 +1,6 @@
 # Gate-Job
 
-ECHNOLOGIES
+
 This web application consist of educational videos and 
 notes for students preparing for GATE and campus 
 placements. The home screen of the app gives alerts on 
